@@ -16,7 +16,7 @@ const Home = () => {
         <div class="container">
           <h1 className="txt">about</h1>
           <div class="box">
-            <p className="text">I'm Meri.</p>
+            <p className="text">I'm Meri. Learning Branching.</p>
           </div>
         </div>
       </section>
