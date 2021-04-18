@@ -9,7 +9,7 @@ const Home = () => {
         <div className="mountain_btm_right"></div>
 
         <div className="overlayerr">
-          <h1 class="tx">Hello world...</h1>
+          <h1 class="tx">Hello Meri...</h1>
         </div>
       </div>
       <section>
